@@ -1,2 +1,2 @@
 # HW2
-Second homework assignmet
+Second homework assignmet with a responsive layout!
